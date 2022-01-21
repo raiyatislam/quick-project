@@ -1,0 +1,192 @@
+*{
+	padding: 0px;
+	margin: 0px;
+}
+body{
+	font-family: serif;
+	font-size: 14px;
+	line-height: 24px;
+}
+h1, h2, h3, h4, h5, h6{
+	font-family: sans-serif;
+}
+a, a:hover{
+	text-decoration: none;
+}
+
+/*************************************
+ * Quick project css code start *
+ * **********************************/
+
+ /***********************************
+  * global css code start
+  * ********************************/
+.container{
+	width: 1140px;
+	margin: 0px auto;
+}
+.row{
+	width: 100%;
+	float: left;
+}
+.col-6{
+	width: 50%;
+	float: left;
+}
+
+.col-12{
+	width: 1005;
+	float: left;
+}
+.col-4{
+	width: 33.33%;
+	float: left;
+}
+/***********************************
+  * global css code end
+  * ********************************/
+
+ .header{
+  	width: 100%;
+  	float: left;
+  	border-bottom: 1px solid #eee;
+  	padding: 10px 0px ;
+}
+.nav{
+	width: 100%;
+	float: left;
+	text-align: right;
+	margin: 10px 0px 0px ;
+}
+.nav li{
+	list-style: none;
+	display: inline-block;
+}
+.nav li a{
+	margin: 0px 0px 0px 25px;
+	font-size: 16px;
+	font-weight: 400;
+	color: #0F2656;
+}
+.nav li a:hover{
+	color: #008AFF;
+}
+
+.banner{
+	width: 100%;
+	float: left;
+	padding: 60px 0px;
+	text-align: center;
+}
+.banner h1{
+	font-size: 58px;
+    line-height: 68px;
+    color: #0F2656;
+}
+.banner h1 span{
+	color: #008AFF;
+}
+.banner p{
+	font-size: 16px;
+    line-height: 26px;
+    color: #0F2656;
+    margin: 20px 0px;
+}
+.banner .banner-img{
+	width:60%;
+	margin-top: 15px;
+	margin-left: 150px;
+}
+.successfull{
+	width: 100%;
+	float: left;
+	padding: 20px 0px;
+}
+.successfull .left-text{
+	width: 100%;
+	float: left;
+	text-align: right;
+
+}
+.successfull .left-text h2{
+	font-size: 52px;
+    line-height: 62px;
+    color: #F15767;
+    margin: 0px 30px 0px 0px;
+}
+.successfull .left-text p{
+	font-size: 16px;
+    line-height: 26px;
+    color: #0F2656;
+    margin: 0px 30px 0px 0px;
+}
+.successfull .right-text{
+	width: 100%;
+	float: left;
+}
+.successfull .right-text h2{
+	font-size: 52px;
+    line-height: 62px;
+    color: #0F2656;
+    margin: 0px 30px 0px 0px;
+}
+.feature{
+	width: 100%;
+	float: left;
+	padding: 40px 0px;
+}
+.feature .inner-feature{
+	width: 80%;
+	float: left;
+	padding: 50px 30px;
+}
+.feature .inner-feature img{
+	width: 95%%;
+	height: 190px;
+	margin: 0px 0px 10px;
+}
+.feature .inner-feature h5{
+	font-size: 22px;
+    line-height: 32px;
+    color: #0F2656;
+    margin: 0px 0px 10px;
+}
+.feature .inner-feature p{
+	font-size: 16px;
+    line-height: 26px;
+    color: #0F2656;
+    margin: 0px;
+}
+.cl1{
+	background: #FDEBED;
+}
+.cl2{
+	background: #EBFAF4;
+}
+.cl3{
+	background: #FFF7E8;
+}
+.footer {
+    width: 100%;
+    height: 50px;
+    background: #008AFF;
+    float: left;
+}
+.footer h4 {
+    font-size: 16px;
+    line-height: 26px;
+    color: #fff;
+    text-align: center;
+    margin-top: 13px;
+    font-weight: 600;
+}
+
+.footer h4 span {
+    color: #82B2FF;
+    margin-right: 3px;
+}
+
+.footer .span-1 {
+    margin-left: 4px;
+}
+Write to Shahriar Hossen Pabel
